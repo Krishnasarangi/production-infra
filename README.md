@@ -1,5 +1,4 @@
 # Production Infrastructure
 
-This repository contains Linux administration scripts,
-configuration files, backup procedures and troubleshooting
-documentation used for production infrastructure management.
+This repository contains production infrastructure scripts,
+configuration files and troubleshooting documentation.
