@@ -1,0 +1,25 @@
+# Logs
+*.log
+logs/*
+!logs/.gitkeep
+
+# Backups
+*.bak
+backups/*
+!backups/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+
+# Secrets
+secrets/
+credentials/
+
+# OS files
+.DS_Store
+Thumbs.db
