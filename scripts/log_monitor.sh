@@ -12,3 +12,4 @@ then
 else
     echo "Log file not found: $LOG_FILE"
 fi
+# BAD PRODUCTION SETTING
